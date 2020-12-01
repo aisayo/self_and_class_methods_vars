@@ -26,4 +26,13 @@ Ruby is an object orientated programming language meaning all program execution 
 
 ## Class Methods
 
+- Defined with `self` 
+- Behavior performed on entire class
+
 ## Class Variables
+
+    Review: There are 4 types of variables in Ruby. What are they?
+
+- Syntax: `@@`
+- Belongs to class
+- Accessible anywhere inside of a class
